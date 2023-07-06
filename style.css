@@ -1,0 +1,18 @@
+#contact iframe
+{
+    width: 100%;
+}
+.Traval_mainDiv
+{
+    border: 1px solid lightslategray;
+}
+
+.Traval_mainDiv img
+{
+    width: 100%;
+}
+
+.Traval_mainDiv h5 ,  .Traval_mainDiv p
+{
+    margin: 20%;
+}
